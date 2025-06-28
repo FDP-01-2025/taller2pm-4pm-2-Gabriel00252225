@@ -1,0 +1,4 @@
+Sofia 2 20
+Gabriel 1 19
+Tania 6 60
+Aby 9 25
